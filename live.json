@@ -1,0 +1,36 @@
+{
+  "lives": [
+    {
+      "name": "央視頻",
+      "url": "https://capi.yangshipin.cn/api/oms/pc/navigation/home_top_nav",
+      "api": "./yangshipin.py",
+      "ext": "./yangshipin.json",
+      "epg": "https://github.com/litiande03/epg/raw/refs/heads/master/pl.xml.gz",
+      "timeZone": "Asia/Shanghai",
+      "timeout": 30
+    },
+    {
+      "name": "央視官網",
+      "url": "https://tv.cctv.com/live/",
+      "api": "./cctv.py",
+      "ext": "./cctv.json",
+      "timeout": 20
+    }
+  ],
+  "spider": "./danmu-spider-native.jar;md5;101891204D4071C1510918C8C5C4F1C0",
+  "sites": [
+    {
+      "key": "弹幕",
+      "name": "弹幕(测试)",
+      "type": 3,
+      "api": "csp_SecureDanmu",
+      "index": 1,
+      "ext": {
+        "apiUrls": [
+          "http://127.0.0.1:9322/please521|本地"
+        ],
+        "titleMappingsUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/goodcommunication/mydm/main/yins.json"
+      }
+    }
+  ]
+}
