@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="cctv1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1 综合
+https://ldncctvwbcdks.v.kcdnvip.com/ldncctvwbcd/cdrmldcctv1_1/index.m3u8?b=200-2100
+#EXTINF:-1 tvg-id="cctv2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2 财经
+https://ldocctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctv2_1/index.m3u8?b=200-2100
+#EXTINF:-1 tvg-id="cctv3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3 综艺
+https://ldocctvwbcdks.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8?b=200-1200
+#EXTINF:-1 tvg-id="cctv4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4 中文国际（亚）
+https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv4_1/index.m3u8?b=200-2100
+#EXTINF:-1 tvg-id="cctv5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5 体育
+https://ldcctvwbcdbyte.volcfcdn.com/ldcctvwbcd/cdrmldcctv5_1/index.m3u8?b=200-2100
+#EXTINF:-1 tvg-id="cctv5plus" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
+https://ldcctvwbcdcnc.v.wscdns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
+#EXTINF:-1 tvg-id="cctv6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6 电影
+https://ldocctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctv6_1/index.m3u8?b=200-1200
+#EXTINF:-1 tvg-id="cctv7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV-7 国防军事
+https://ldocctvwbcdks.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv7_1/index.m3u8?b=200-2100
+#EXTINF:-1 tvg-id="cctv8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV-8 电视剧
+https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?b=200-1200
+#EXTINF:-1 tvg-id="cctvjilu" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV-9 纪录
+https://ldocctvwbcdks.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv9_1/index.m3u8?b=200-2100
+#EXTINF:-1 tvg-id="cctv10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV-10 科教
+https://ldocctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctv10_1/index.m3u8?b=200-2100
+#EXTINF:-1 tvg-id="cctv11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV-11 戏曲
+https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv11_1/index.m3u8?b=200-2100
+#EXTINF:-1 tvg-id="cctv12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV-12 社会与法
+https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv12_1/index.m3u8?b=200-2100
+#EXTINF:-1 tvg-id="cctv13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13 新闻
+https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8?b=200-2100
+#EXTINF:-1 tvg-id="cctvchild" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV-14 少儿
+https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv14_1/index.m3u8?b=200-2100
+#EXTINF:-1 tvg-id="cctv15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15 音乐
+https://ldocctvwbcdks.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv15_1/index.m3u8?b=200-2100
+#EXTINF:-1 tvg-id="cctv16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
+https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv16_1/index.m3u8?b=200-2100
+#EXTINF:-1 tvg-id="cctv17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17 农业农村
+https://ldocctvwbcdks.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv17_1/index.m3u8?b=200-2100
+#EXTINF:-1 tvg-id="cctveurope" tvg-logo="https://epg.112114.xyz/logo/CCTV4欧洲.png" group-title="央视",CCTV-4 中文国际（欧）
+https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctveurope_1/index.m3u8?b=200-2100
+#EXTINF:-1 tvg-id="cctvamerica" tvg-logo="https://epg.112114.xyz/logo/CCTV4美洲.png" group-title="央视",CCTV-4 中文国际（美）
+https://ldocctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctvamerica_1/index.m3u8?b=200-2100
